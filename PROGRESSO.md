@@ -6,8 +6,8 @@ Meta: ler todo o livro, praticar os exemplos, realizar **todos os exercícios** 
 
 ## Visão geral
 
-- Capítulos concluídos: **0 / 20**.
-- Exercícios concluídos: **0 / 186**.
+- Capítulos concluídos: **1 / 20**.
+- Exercícios concluídos: **3 / 186**.
 - Leituras complementares concluídas: **0 / 8**.
 
 Estes totais são um resumo manual: atualize-os ao registrar seu avanço. Conte os exercícios marcados nos READMEs dos capítulos. Progresso de exercícios = concluídos ÷ 186 × 100; progresso de capítulos = concluídos ÷ 20 × 100. O acompanhamento não é automático.
@@ -20,7 +20,7 @@ A coluna de exercícios indica o total previsto; a conclusão de cada atividade 
 
 | Capítulo | Parte | Status | Início | Conclusão | Exercícios |
 | --- | --- | --- | --- | --- | ---: |
-| [01 — Primeiros passos](parte-01-nocoes-basicas/capitulo-01-primeiros-passos/README.md) | 01 | Não iniciado | | | 3 |
+| [01 — Primeiros passos](parte-01-nocoes-basicas/capitulo-01-primeiros-passos/README.md) | 01 | Concluído | não informado | 2026-10-13 | 3 |
 | [02 — Variáveis e tipos de dados simples](parte-01-nocoes-basicas/capitulo-02-variaveis-e-tipos-de-dados-simples/README.md) | 01 | Não iniciado | | | 12 |
 | [03 — Introdução às listas](parte-01-nocoes-basicas/capitulo-03-introducao-as-listas/README.md) | 01 | Não iniciado | | | 11 |
 | [04 — Trabalhando com listas](parte-01-nocoes-basicas/capitulo-04-trabalhando-com-listas/README.md) | 01 | Não iniciado | | | 15 |

@@ -2,19 +2,23 @@
 
 [Voltar à parte](../README.md) · [Consultar progresso geral](../../PROGRESSO.md)
 
+**Status:** Concluído  
+**Início:** não informado  
+**Conclusão:** 2026-10-13
+
 ## Leitura e prática
 
-- [ ] Li o capítulo inteiro, incluindo notas e recapitulação.
-- [ ] Pratiquei os exemplos do capítulo e conferi os resultados.
-- [ ] Revisei os conceitos e consigo explicá-los com minhas palavras.
+- [x] Li o capítulo inteiro, incluindo notas e recapitulação.
+- [x] Pratiquei os exemplos do capítulo e conferi os resultados.
+- [x] Revisei os conceitos e consigo explicá-los com minhas palavras.
 
 ## Exercícios — Faça você mesmo
 
 Total: **3 exercícios**. Marque cada item somente após cumprir todo o enunciado no livro, incluindo suas variações e subitens. A numeração abaixo usa ponto, como no PDF, inclusive no item 10.8.
 
-- [ ] **1.1 — python.org**
-- [ ] **1.2 — Erros de digitação do Hello World**
-- [ ] **1.3 — Habilidades infinitas**
+- [X] **1.1 — python.org**
+- [X] **1.2 — Erros de digitação do Hello World**
+- [X] **1.3 — Habilidades infinitas**
 
 Os enunciados devem ser consultados no livro. Registre os arquivos que você criar em [exercicios/](exercicios/README.md).
 
@@ -36,12 +40,12 @@ Os enunciados devem ser consultados no livro. Registre os arquivos que você cri
 
 | Data | O que estudei ou pratiquei | Próximo passo |
 | --- | --- | --- |
-| | | |
+| 2026-10-13 | Capítulo concluído, incluindo leitura, exemplos e os três exercícios. | Iniciar o capítulo 2. |
 
 ## Conclusão
 
-- [ ] Concluí a leitura e a prática indicadas acima.
-- [ ] Concluí todos os exercícios deste capítulo.
-- [ ] Resolvi as dúvidas que impediam a compreensão.
+- [x] Concluí a leitura e a prática indicadas acima.
+- [x] Concluí todos os exercícios deste capítulo.
+- [x] Resolvi as dúvidas que impediam a compreensão.
 
-Quando cumprir os três critérios, atualize o status e a data de conclusão deste capítulo no [PROGRESSO.md](../../PROGRESSO.md). As datas e o status ficam apenas nesse arquivo.
+Capítulo concluído em 2026-10-13. O status e a data também foram atualizados no [PROGRESSO.md](../../PROGRESSO.md).
