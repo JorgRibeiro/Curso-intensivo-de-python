@@ -28,7 +28,7 @@ Total: **15 exercícios**. Marque cada item somente após cumprir todo o enuncia
 - [ ] **4.14 — PEP 8**
 - [ ] **4.15 — Revisão do código**
 
-Os enunciados devem ser consultados no livro. Registre os arquivos que você criar em [exercicios/](exercicios/README.md).
+Consulte os enunciados no livro; registre os exemplos em [exemplos/](exemplos/README.md) e as resoluções em [exercicios/](exercicios/README.md).
 
 ## Anotações
 

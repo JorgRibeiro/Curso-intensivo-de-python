@@ -2,6 +2,28 @@
 
 [Voltar à parte](../README.md) · [Consultar progresso geral](../../PROGRESSO.md)
 
+| Status | Em andamento |
+| --- | --- |
+| Início | Não informado |
+| Conclusão | — |
+
+Consulte também [exemplos](exemplos/README.md) e [exercícios](exercicios/README.md), que mantêm separados os trechos do livro e suas atividades.
+
+## Conteúdo do capítulo
+
+1. O que ocorre quando um programa Python é executado; variáveis, nomes válidos e atribuição.
+2. Strings: capitalização, f-strings, tabulações e quebras de linha, remoção de espaços e prefixos, e erros de sintaxe.
+3. Números: inteiros, floats, underscores, atribuição múltipla e constantes.
+4. Comentários e Zen do Python.
+
+## Objetivos de estudo
+
+- [ ] Explicar o que é uma variável e escolher nomes claros para elas.
+- [ ] Manipular strings e formatar mensagens com variáveis.
+- [ ] Reconhecer a diferença entre inteiros e floats e escrever atribuições simples.
+- [ ] Usar comentários para explicar decisões úteis no código.
+- [ ] Consultar o Zen do Python e revisar a recapitulação do capítulo.
+
 ## Leitura e prática
 
 - [ ] Li o capítulo inteiro, incluindo notas e recapitulação.
@@ -16,7 +38,7 @@ Total: **12 exercícios**. Marque cada item somente após cumprir todo o enuncia
 - [ ] **2.2 — Simple Messages**
 - [ ] **2.3 — Mensagem pessoal**
 - [ ] **2.4 — Maiúsculas e minúsculas**
-- [ ] **2.5 — First number**
+- [ ] **2.5 — Citação famosa**
 - [ ] **2.6 — Citação famosa 2**
 - [ ] **2.7 — Removendo nomes**
 - [ ] **2.8 — Extensões de arquivo**
@@ -25,27 +47,31 @@ Total: **12 exercícios**. Marque cada item somente após cumprir todo o enuncia
 - [ ] **2.11 — Adicionando comentários**
 - [ ] **2.12 — Zen do Python**
 
-Os enunciados devem ser consultados no livro. Registre os arquivos que você criar em [exercicios/](exercicios/README.md).
+Consulte os enunciados no livro; registre os exemplos em [exemplos/](exemplos/README.md) e as resoluções em [exercicios/](exercicios/README.md).
 
 ## Anotações
 
-### O que aprendi
+### Resumo dos conceitos para revisar
 
-<!-- Registre os conceitos com suas próprias palavras. -->
+- Variáveis associam nomes a valores e podem receber novos valores.
+- Métodos de strings produzem versões formatadas do texto; f-strings inserem valores em mensagens.
+- `\t` e `\n` representam tabulação e quebra de linha; `strip()`, `lstrip()` e `rstrip()` removem espaços das extremidades.
+- Inteiros e floats são tipos numéricos; underscores ajudam a agrupar dígitos em números longos.
+- Constantes são convenções de nomes para valores que não se pretende alterar; comentários começam com `#`.
 
 ### Dificuldades e dúvidas
 
-<!-- Anote a dúvida, o que tentou e a conclusão quando resolver. -->
+<!-- Anote suas dúvidas específicas durante o estudo e o que tentou para resolvê-las. -->
 
 ### Pontos para revisar
 
-<!-- Liste o que precisa retomar e marque quando revisar. -->
+<!-- Registre os tópicos que você ainda quer revisar. -->
 
 ## Registro de estudo
 
 | Data | O que estudei ou pratiquei | Próximo passo |
 | --- | --- | --- |
-| | | |
+| Ainda não registrado | | |
 
 ## Conclusão
 

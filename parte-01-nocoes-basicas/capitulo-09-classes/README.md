@@ -29,7 +29,7 @@ Total: **16 exercícios**. Marque cada item somente após cumprir todo o enuncia
 - [ ] **9.15 — Análise de loteria**
 - [ ] **9.16 — Python Module of the Week**
 
-Os enunciados devem ser consultados no livro. Registre os arquivos que você criar em [exercicios/](exercicios/README.md).
+Consulte os enunciados no livro; registre os exemplos em [exemplos/](exemplos/README.md) e as resoluções em [exercicios/](exercicios/README.md).
 
 ## Anotações
 

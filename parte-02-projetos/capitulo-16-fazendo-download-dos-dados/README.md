@@ -25,7 +25,7 @@ Total: **9 exercícios**. Marque cada item somente após cumprir todo o enunciad
 - [ ] **16.8 — Terremotos recentes**
 - [ ] **16.9 — Incêndios pelo mundo**
 
-Os enunciados devem ser consultados no livro. Registre os arquivos que você criar em [exercicios/](exercicios/README.md).
+Consulte os enunciados no livro; registre os exemplos em [exemplos/](exemplos/README.md) e as resoluções em [exercicios/](exercicios/README.md).
 
 ## Anotações
 

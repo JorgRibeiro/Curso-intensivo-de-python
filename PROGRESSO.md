@@ -21,7 +21,7 @@ A coluna de exercícios indica o total previsto; a conclusão de cada atividade 
 | Capítulo | Parte | Status | Início | Conclusão | Exercícios |
 | --- | --- | --- | --- | --- | ---: |
 | [01 — Primeiros passos](parte-01-nocoes-basicas/capitulo-01-primeiros-passos/README.md) | 01 | Concluído | não informado | 2026-10-13 | 3 |
-| [02 — Variáveis e tipos de dados simples](parte-01-nocoes-basicas/capitulo-02-variaveis-e-tipos-de-dados-simples/README.md) | 01 | Não iniciado | | | 12 |
+| [02 — Variáveis e tipos de dados simples](parte-01-nocoes-basicas/capitulo-02-variaveis-e-tipos-de-dados-simples/README.md) | 01 | Em andamento | não informado | | 12 |
 | [03 — Introdução às listas](parte-01-nocoes-basicas/capitulo-03-introducao-as-listas/README.md) | 01 | Não iniciado | | | 11 |
 | [04 — Trabalhando com listas](parte-01-nocoes-basicas/capitulo-04-trabalhando-com-listas/README.md) | 01 | Não iniciado | | | 15 |
 | [05 — Instruções if](parte-01-nocoes-basicas/capitulo-05-instrucoes-if/README.md) | 01 | Não iniciado | | | 13 |

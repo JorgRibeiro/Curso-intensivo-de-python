@@ -16,7 +16,7 @@ Total: **3 exercícios**. Marque cada item somente após cumprir todo o enunciad
 - [ ] **11.2 — População**
 - [ ] **11.3 — Funcionário**
 
-Os enunciados devem ser consultados no livro. Registre os arquivos que você criar em [exercicios/](exercicios/README.md).
+Consulte os enunciados no livro; registre os exemplos em [exemplos/](exemplos/README.md) e as resoluções em [exercicios/](exercicios/README.md).
 
 ## Anotações
 

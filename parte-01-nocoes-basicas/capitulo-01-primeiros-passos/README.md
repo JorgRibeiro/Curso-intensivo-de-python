@@ -20,7 +20,7 @@ Total: **3 exercícios**. Marque cada item somente após cumprir todo o enunciad
 - [X] **1.2 — Erros de digitação do Hello World**
 - [X] **1.3 — Habilidades infinitas**
 
-Os enunciados devem ser consultados no livro. Registre os arquivos que você criar em [exercicios/](exercicios/README.md).
+Consulte os enunciados no livro; registre os exemplos em [exemplos/](exemplos/README.md) e as resoluções em [exercicios/](exercicios/README.md).
 
 ## Anotações
 

@@ -23,7 +23,7 @@ Total: **10 exercícios**. Marque cada item somente após cumprir todo o enuncia
 - [ ] **7.9 — Sem pastrami**
 - [ ] **7.10 — Férias tão sonhadas**
 
-Os enunciados devem ser consultados no livro. Registre os arquivos que você criar em [exercicios/](exercicios/README.md).
+Consulte os enunciados no livro; registre os exemplos em [exemplos/](exemplos/README.md) e as resoluções em [exercicios/](exercicios/README.md).
 
 ## Anotações
 
